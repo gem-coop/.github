@@ -12,10 +12,10 @@ All gems published to [RubyGems.org](https://rubygems.org/) are available, updat
 +source "https://gem.coop"
 ```
 
-Governance for this project is modeled on [Homebrew](https://brew.sh/), with setup assistance from [Mike McQuaid](https://github.com/MikeMcQuaid), and will be published next week. Everyone from the Ruby community is welcome to contribute and participate.
+Governance for this project is modeled on [Homebrew](https://brew.sh/), and published at [gem-coop/governance](https://github.com/gem-coop/governance). Everyone from the Ruby community is welcome to contribute and participate.
 
 If you want to follow along with our progress, subscribe to the gem.coop newsletter for monthly updates.
 
 Our goal is to provide fast, community-owned, transparent, sustainable, and secure gem hosting for everyone. We’re launching with support for bundling and installing all public gems, and we’re excited to keep improving.
 
-— The Gem Cooperative ([@deivid-rodriguez](https://github.com/deivid-rodriguez), [@duckinator](https://github.com/duckinator), [@indirect](https://github.com/indirect), [@martinemde](https://github.com/martinemde), [@segiddins](https://github.com/segiddins), [@simi](https://github.com/simi))
+— The Gem Cooperative Team ([@deivid-rodriguez](https://github.com/deivid-rodriguez), [@duckinator](https://github.com/duckinator), [@indirect](https://github.com/indirect), [@martinemde](https://github.com/martinemde), [@segiddins](https://github.com/segiddins), [@simi](https://github.com/simi))
